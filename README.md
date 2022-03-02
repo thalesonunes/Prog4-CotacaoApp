@@ -25,7 +25,7 @@ O projeto consite em um aplicativo de conversão de moedas.
 
 ### :rocket: Preview:
 
-![Vídeo](https://github.com/thalesonunes/ProgramacaoIV-VisualStudio/raw/main/cotacao-final.mp4)
+<img src="cotacao-final.gif" width="400" ></img>
 
 ------
 
