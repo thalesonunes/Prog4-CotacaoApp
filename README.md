@@ -4,7 +4,7 @@
 
 Trabalho da disciplina Programação IV cursada na UEMG em 2022.
 
-O projeto consite em um aplicativo de conversão de moedas.
+O projeto consiste em um aplicativo de conversão de moedas.
 
 ------
 
@@ -19,7 +19,7 @@ O projeto consite em um aplicativo de conversão de moedas.
 ### :rocket: Recursos utilizados:
 
 - Foi utilizada a linguagem Kotlin no ambiente do Android Studio
-- Para gerar a cotação em tempo real foi consumido a API Exchange Rates ( https://exchange-rates.abstractapi.com )
+- Para gerar a cotação em tempo real foi consumido dados da API Exchange Rates ( https://exchange-rates.abstractapi.com )
 
 ------
 
