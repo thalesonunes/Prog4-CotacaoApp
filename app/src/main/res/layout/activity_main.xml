@@ -11,9 +11,9 @@
         android:id="@+id/txt_title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Quanto é?"
+        android:text="Quanto é em Real?"
         android:textColor="#673AB7"
-        android:textSize="24sp"
+        android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:ems="10"
-        android:hint="R$ 100.00"
+        android:hint="$ 59.25"
         android:inputType="numberDecimal"
         android:minHeight="48dp"
         android:textAlignment="center"
@@ -65,10 +65,10 @@
             android:textColorHint="#009688" />
 
         <RadioButton
-            android:id="@+id/radio_clp"
+            android:id="@+id/radio_gbp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="CLP"
+            android:text="GBP"
             android:textColor="#FF424242" />
     </RadioGroup>
 
