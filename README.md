@@ -10,17 +10,6 @@ O projeto consite em um aplicativo de conversão de moedas.
 
 ### :rocket: Funcionalidades:
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-- Mostra a data do dia no cabeçalho.
-- Possui a opção de adicionar novas tarefas.
-- Ao clicar na terefa a mesma é marcada como feita.
-- Clicando em uma tarefa cumprida ela volta ao estado de "a fazer".
-- Possui um botão de ordenar as tarefas, que coloca as tarefas feitas no fim da lista.
-
-------
-
-### :rocket: Funcionalidades:
-
 - Cotação de Dólar para Real
 - Cotação de Euro para Real
 - Cotação de Libra para Real
@@ -29,14 +18,14 @@ O projeto consite em um aplicativo de conversão de moedas.
 
 ### :rocket: Recursos utilizados:
 
-- Foi utilizado Kotlin no ambiente do Android Studio
-- Para gerar a cotação em tmepo real foi consumido a API Exchange Rates ( https://exchange-rates.abstractapi.com )
+- Foi utilizada a linguagem Kotlin no ambiente do Android Studio
+- Para gerar a cotação em tempo real foi consumido a API Exchange Rates ( https://exchange-rates.abstractapi.com )
 
 ------
 
 ### :rocket: Preview:
 
-https://github.com/thalesonunes/ProgramacaoIV-VisualStudio/raw/main/cotacao-final.mp4
+![Vídeo](https://github.com/thalesonunes/ProgramacaoIV-VisualStudio/raw/main/cotacao-final.mp4)
 
 ------
 
