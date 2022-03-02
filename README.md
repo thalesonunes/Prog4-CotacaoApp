@@ -1,6 +1,6 @@
 # ![Header]( https://thalesnunes.com.br/github/header.png )
 
-# ProgramacaoIV-VisualStudio
+# Programacão IV - Android Studio
 
 Trabalho da disciplina Programação IV cursada na UEMG em 2022.
 
