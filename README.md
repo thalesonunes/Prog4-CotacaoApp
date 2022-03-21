@@ -1,6 +1,6 @@
 # ![Header]( https://thalesnunes.com.br/github/header.png )
 
-# Programacão IV - Android Studio
+# Programacão IV - CotaçãoAPP (Android Studio)
 
 Trabalho da disciplina Programação IV cursada na UEMG em 2022.
 
